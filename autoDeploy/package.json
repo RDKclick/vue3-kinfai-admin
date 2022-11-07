@@ -1,0 +1,17 @@
+{
+  "name": "auto_deploy",
+  "version": "1.0.0",
+  "description": "auto-deploy-project",
+  "main": "index.js",
+  "author": "kinfai",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.0",
+    "ssh2-sftp-client": "^9.0.1"
+  }
+}

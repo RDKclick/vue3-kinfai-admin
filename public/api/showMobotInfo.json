@@ -1,0 +1,57 @@
+{
+  "id": 2,
+  "company_id": 1,
+  "prologue": "Hello, Can I help you?",
+  "created_at": "2022-09-15 15:40:09",
+  "updated_at": "2022-10-09 16:21:10",
+  "mobotQuestion": [
+    {
+      "question_id": 1,
+      "company_id": 1,
+      "mobot_info_id": 2,
+      "created_at": "2022-10-09 16:21:10",
+      "updated_at": "2022-10-09 16:21:10",
+      "title": "Our delivery time",
+      "reply_content": "Our delivery time is usually within 15 days ",
+      "reply_image": "",
+      "sort": 0,
+      "status": 1
+    },
+    {
+      "question_id": 2,
+      "company_id": 1,
+      "mobot_info_id": 2,
+      "created_at": "2022-10-09 16:21:10",
+      "updated_at": "2022-10-09 16:21:10",
+      "title": "Minimum order quantity requi",
+      "reply_content": "Minimum order quantity requirement",
+      "reply_image": "",
+      "sort": 0,
+      "status": 1
+    },
+    {
+      "question_id": 3,
+      "company_id": 1,
+      "mobot_info_id": 2,
+      "created_at": "2022-10-09 16:21:10",
+      "updated_at": "2022-10-09 16:21:10",
+      "title": "Contact us quickly",
+      "reply_content": "WhatsApp:wa/me/86xxxxxxxxxx ",
+      "reply_image": "",
+      "sort": 0,
+      "status": 1
+    },
+    {
+      "question_id": 4,
+      "company_id": 1,
+      "mobot_info_id": 2,
+      "created_at": "2022-10-09 16:21:10",
+      "updated_at": "2022-10-09 16:21:10",
+      "title": "About Us",
+      "reply_content": "Our company was founded in 1900 and is very strong",
+      "reply_image": "",
+      "sort": 0,
+      "status": 1
+    }
+  ]
+}

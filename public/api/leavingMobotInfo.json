@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "company_id": 1,
+  "content": "Your dedicated customer service representative may be busy. Could you please leave some key information?",
+  "created_at": null,
+  "updated_at": "2022-10-09 16:23:09",
+  "name_status": 1,
+  "email_status": 1,
+  "phone_status": 1,
+  "desc_status": 1,
+  "photo_status": 1,
+  "name": "",
+  "email": "",
+  "phone": "",
+  "desc": "",
+  "photo": ""
+}

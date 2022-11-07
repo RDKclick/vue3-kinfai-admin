@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "company_id": 1,
+  "name": "Needke",
+  "status": 1,
+  "brand": "needke",
+  "brand_icon": "http://dev.manager.needke.com/storage/upload/images/company/1/product/2022/09/07/1662538813896746.jpg",
+  "background_color": "#4e62b1",
+  "button_color": "#1d8dd3",
+  "replytime_status": 2,
+  "connection": null,
+  "created_at": "2022-09-02 14:30:36",
+  "updated_at": "2022-09-29 15:39:58",
+  "sys_chat": 1,
+//  "sfid": 406332307092275200,
+  "language_type": 2
+}
